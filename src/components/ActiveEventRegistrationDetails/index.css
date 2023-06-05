@@ -1,0 +1,56 @@
+.yet-to-register {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.yet-to-register-img {
+  height: 230px;
+}
+.yet-to-register-paragraph {
+  font-size: 18px;
+  color: #475569;
+  font-family: 'Roboto';
+  margin: 40px;
+}
+.registration-button {
+  background-color: #0967d2;
+  color: #ffffff;
+  height: 40px;
+  width: 190px;
+  border-width: 0px;
+  border-radius: 10px;
+}
+.registered-img {
+  height: 190px;
+}
+.registered {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.registered-heading {
+  color: #3a4b63;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.registration-closed-img {
+  height: 290px;
+}
+.registration-closed-heading {
+  color: #3a4b63;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.registrations-closed-paragraph {
+  color: #475569;
+  font-size: 18px;
+  font-weight: 400;
+}
+.registration-closed {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

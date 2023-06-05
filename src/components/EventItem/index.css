@@ -1,0 +1,21 @@
+.img {
+  height: 160px;
+}
+.name {
+  font-size: 20px;
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
+.location-name {
+  font-size: 16px;
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
+.event-item {
+  margin-right: 20px;
+  list-style-type: none;
+}
+.button {
+  background-color: transparent;
+  border-width: 0px;
+}

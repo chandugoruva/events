@@ -1,0 +1,30 @@
+.bg-color {
+  display: flex;
+  flex-direction: row;
+}
+.sub-events {
+  background-image: linear-gradient(to right, #64748b, #323f4b);
+  min-height: 900px;
+  max-width: 900px;
+  padding: 20px;
+}
+.heading {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.events-status {
+  padding: 20px;
+}
+.events-heading {
+  color: #475569;
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}
